@@ -14,7 +14,7 @@ Imagine you work for a company that builds ships and wants to investigate the Ti
 
 - Python
 - Pandas
-- Excel (via 'openpyxl' library)
+- Excel
 
 ---
 

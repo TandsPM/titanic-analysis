@@ -1,0 +1,5 @@
+# .gitignore file contents
+venv/
+__pycache__/
+*.pyc
+*.xlsx

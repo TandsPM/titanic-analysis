@@ -1,4 +1,4 @@
-##Step 1. Kick-off meeting with management
+## Step 1. Kick-off meeting with management
 
 Imagine you work for a company that builds ships and wants to investigate the Titanic tragedy to improve their designs. They aim to ensure that in emergencies, all passengers, regardless of class and age, have equal access to emergency exits and equipment. The team suspects that higher-class passengers on the Titanic had higher survival chances, and wants you to visualize the data to verify this suspicion.
 
